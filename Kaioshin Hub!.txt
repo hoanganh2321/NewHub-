@@ -1,4 +1,3 @@
-
 _G.Color = Color3.fromRGB(128, 128, 128)
 _G.Logo = 14225431628
 
@@ -42,7 +41,7 @@ if game:GetService("Players").LocalPlayer.PlayerGui.Main:FindFirstChild("ChooseT
 end
 
 local Evil = loadstring(game:HttpGet("https://newpchx2.0xlii.repl.co/AllUI/Protected_9405524596134885.lua"))()
-local Win = library:Evil("Kaioshin","Hub",_G.Logo )
+local Win = library:Evil("Sky","Hub",_G.Logo )
 
 
 if game.PlaceId == 2753915549 then
